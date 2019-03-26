@@ -2428,4 +2428,10 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
-	}
+  }
+
+
+  .image.featured {
+    margin: 0;
+  }
+
